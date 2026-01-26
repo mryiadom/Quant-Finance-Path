@@ -1,20 +1,14 @@
-# Quant-Finance-Path
-A comprehensive 52-week quantitative finance curriculum focusing on derivative pricing, risk management, and portfolio optimisation using Python.
-Quantitative Finance Roadmap: 12-Month Mastery
-This repository documents my professional transition into Quantitative Finance. It serves as a technical portfolio encompassing financial mathematics, stochastic processes, and algorithmic implementation.
-
-🏛️ Core Competencies
-Mathematical Finance: Time Value of Money, Options Greeks, Black-Scholes, and Binomial Models.
-
-Risk Analytics: Value at Risk (VaR), Expected Shortfall (ES), and Volatility Forecasting (GARCH).
-
-Programming: Financial data analysis using Pandas, NumPy, and SciPy.
-
-Portfolio Theory: Mean-Variance Optimisation and the Efficient Frontier.
-
 # Quant Finance Mastery: 52-Week Technical Roadmap 📈
 
-This repository documents my 12-month journey into Quantitative Finance, transitioning from foundational mathematics to advanced derivative pricing and risk management.
+> **Project Mission:** This repository documents a 12-month systematic progression into Quantitative Finance. It serves as a technical portfolio encompassing financial mathematics, stochastic processes, and algorithmic implementation using Python.
+
+---
+
+## 🏛️ Core Competencies
+* **Mathematical Finance:** Time Value of Money, Options Greeks, Black-Scholes, and Binomial Models.
+* **Risk Analytics:** Value at Risk (VaR), Expected Shortfall (ES), and Volatility Forecasting (GARCH).
+* **Programming:** Numerical analysis and financial data handling using `Pandas`, `NumPy`, and `SciPy`.
+* **Portfolio Theory:** Mean-Variance Optimisation and the Efficient Frontier construction.
 
 ---
 
@@ -81,8 +75,8 @@ This repository documents my 12-month journey into Quantitative Finance, transit
 
 ---
 
-## 🚀 Phase 4: Optimization & Career Prep (Months 11–12)
-**Focus:** Modern Portfolio Theory, Machine Learning, and The Interview.
+## 🚀 Phase 4: Optimisation & Career Prep (Months 11–12)
+**Focus:** Modern Portfolio Theory, and Machine Learning
 
 | Month | Week | Learning Objective | Python Deliverable | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -91,7 +85,6 @@ This repository documents my 12-month journey into Quantitative Finance, transit
 | 11 | 43 | Mean-Variance Opt | Portfolio Weight Optimizer | 📅 |
 | 11 | 44 | Dashboard | **Project 5: Risk/Performance Dashboard**| 📅 |
 | 12 | 45-47 | ML & Algo Basics | Stock Classifier (Random Forest) | 📅 |
-| 12 | 48-52 | Career Blitz | Interviewing & Applications | 📅 |
 
 ---
 *Follow my journey as I build a production-ready Quant library from scratch.*
